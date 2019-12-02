@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business Objects", "Business\Business Objects.csproj", "{19697BD4-7FEC-401E-B879-D3EBAABF68E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{3838351D-9C8E-44A1-AE1B-864D18297B3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation", "Presentation\Presentation.csproj", "{DF994EE4-EC77-42F0-BB4A-15ACE7757DAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19697BD4-7FEC-401E-B879-D3EBAABF68E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19697BD4-7FEC-401E-B879-D3EBAABF68E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19697BD4-7FEC-401E-B879-D3EBAABF68E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19697BD4-7FEC-401E-B879-D3EBAABF68E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3838351D-9C8E-44A1-AE1B-864D18297B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3838351D-9C8E-44A1-AE1B-864D18297B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3838351D-9C8E-44A1-AE1B-864D18297B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3838351D-9C8E-44A1-AE1B-864D18297B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF994EE4-EC77-42F0-BB4A-15ACE7757DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF994EE4-EC77-42F0-BB4A-15ACE7757DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF994EE4-EC77-42F0-BB4A-15ACE7757DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF994EE4-EC77-42F0-BB4A-15ACE7757DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58A51DFA-AE8D-4774-BC64-A21F4F814A4E}
+	EndGlobalSection
+EndGlobal

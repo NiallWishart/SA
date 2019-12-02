@@ -1,0 +1,294 @@
+C:\Users\Phoenix\documents\visual studio 2015\Projects\Holiday Booking System\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Phoenix\documents\visual studio 2015\Projects\Holiday Booking System\Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\Phoenix\documents\visual studio 2015\Projects\Holiday Booking System\Presentation\obj\Debug\App.g.cs
+C:\Users\Phoenix\documents\visual studio 2015\Projects\Holiday Booking System\Presentation\obj\Debug\Presentation_MarkupCompile.cache
+C:\Users\Phoenix\documents\visual studio 2015\Projects\Holiday Booking System\Presentation\obj\Debug\Presentation_MarkupCompile.lref
+C:\Users\Phoenix\Documents\Visual Studio 2015\Projects\Holiday Booking System\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Phoenix\Documents\Visual Studio 2015\Projects\Holiday Booking System\Presentation\bin\Debug\Presentation.exe
+C:\Users\Phoenix\Documents\Visual Studio 2015\Projects\Holiday Booking System\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Phoenix\Documents\Visual Studio 2015\Projects\Holiday Booking System\Presentation\bin\Debug\Business Objects.dll
+C:\Users\Phoenix\Documents\Visual Studio 2015\Projects\Holiday Booking System\Presentation\bin\Debug\Data.dll
+C:\Users\Phoenix\Documents\Visual Studio 2015\Projects\Holiday Booking System\Presentation\bin\Debug\Business Objects.pdb
+C:\Users\Phoenix\Documents\Visual Studio 2015\Projects\Holiday Booking System\Presentation\bin\Debug\Data.pdb
+C:\Users\Phoenix\Documents\Visual Studio 2015\Projects\Holiday Booking System\Presentation\obj\Debug\MainWindow.baml
+C:\Users\Phoenix\Documents\Visual Studio 2015\Projects\Holiday Booking System\Presentation\obj\Debug\Presentation.g.resources
+C:\Users\Phoenix\Documents\Visual Studio 2015\Projects\Holiday Booking System\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Phoenix\Documents\Visual Studio 2015\Projects\Holiday Booking System\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+C:\Users\Phoenix\Documents\Visual Studio 2015\Projects\Holiday Booking System\Presentation\obj\Debug\Presentation.exe
+C:\Users\Phoenix\Documents\Visual Studio 2015\Projects\Holiday Booking System\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\Presentation.exe
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\App.g.cs
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\Presentation_MarkupCompile.cache
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\Presentation_MarkupCompile.lref
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\bin\Debug\Presentation.exe
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\bin\Debug\Business Objects.dll
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\bin\Debug\Data.dll
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\bin\Debug\Business Objects.pdb
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\bin\Debug\Data.pdb
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\MainWindow.baml
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\Presentation.g.resources
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\AddBooking.g.cs
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\BookingData.g.cs
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\CustomerData.g.cs
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\GuestData.g.cs
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\ViewBookings.g.cs
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\AddBooking.baml
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\BookingData.baml
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\CustomerData.baml
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\GuestData.baml
+C:\Users\Connorrness\Dropbox\Holiday Booking System\Presentation\obj\Debug\ViewBookings.baml
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\Presentation.exe
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\Presentation.pdb
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\bin\Debug\Presentation.exe
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\bin\Debug\Business Objects.dll
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\bin\Debug\Data.dll
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\bin\Debug\Business Objects.pdb
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\bin\Debug\Data.pdb
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\App.g.cs
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\Presentation_MarkupCompile.cache
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\Presentation_MarkupCompile.lref
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\MainWindow.baml
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\Presentation.g.resources
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\CreateBooking.g.cs
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\CreateBooking.baml
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\CreateGuests.g.cs
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\CreateGuests.baml
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\ChangeBooking.g.cs
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\ChangeBooking.baml
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\Invoice.g.cs
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\Invoice.baml
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\CreateCustomer.g.cs
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\ExsistingCustomer.g.cs
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\NewOrExisting.g.cs
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\CreateCustomer.baml
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\ExsistingCustomer.baml
+C:\Users\Connorrness\Dropbox\Notes\2nd year\OO\Coursework 2\Holiday Booking System\Presentation\obj\Debug\NewOrExisting.baml
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\bin\Debug\Presentation.exe.config
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\Presentation.exe
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\Presentation.pdb
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\bin\Debug\Presentation.exe
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\bin\Debug\Presentation.pdb
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\bin\Debug\Business Objects.dll
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\bin\Debug\Data.dll
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\bin\Debug\Business Objects.pdb
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\bin\Debug\Data.pdb
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\ChangeBooking.g.cs
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\CreateBooking.g.cs
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\CreateCustomer.g.cs
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\CreateGuests.g.cs
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\ExsistingCustomer.g.cs
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\Invoice.g.cs
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\MainWindow.g.cs
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\NewOrExisting.g.cs
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\App.g.cs
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\Presentation_MarkupCompile.cache
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\Presentation_MarkupCompile.lref
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\ChangeBooking.baml
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\CreateBooking.baml
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\CreateCustomer.baml
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\CreateGuests.baml
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\ExsistingCustomer.baml
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\Invoice.baml
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\MainWindow.baml
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\NewOrExisting.baml
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\Presentation.g.resources
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Coursework 2\Holiday Booking System\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\bin\Debug\Presentation.exe.config
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\Presentation.exe
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\Presentation.pdb
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\bin\Debug\Presentation.exe
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\bin\Debug\Presentation.pdb
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\bin\Debug\Business Objects.dll
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\bin\Debug\Data.dll
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\bin\Debug\Business Objects.pdb
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\bin\Debug\Data.pdb
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\ChangeBooking.g.cs
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\CreateBooking.g.cs
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\CreateCustomer.g.cs
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\CreateGuests.g.cs
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\ExsistingCustomer.g.cs
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\Invoice.g.cs
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\MainWindow.g.cs
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\NewOrExisting.g.cs
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\App.g.cs
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\Presentation_MarkupCompile.cache
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\Presentation_MarkupCompile.lref
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\ChangeBooking.baml
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\CreateBooking.baml
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\CreateCustomer.baml
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\CreateGuests.baml
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\ExsistingCustomer.baml
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\Invoice.baml
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\MainWindow.baml
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\NewOrExisting.baml
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\Presentation.g.resources
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\Dropbox\Notes\2nd year\OO\OOSD-CW2\Holiday Booking System\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\bin\Debug\Presentation.exe.config
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\obj\Debug\Presentation.exe
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\obj\Debug\Presentation.pdb
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\bin\Debug\Presentation.exe
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\bin\Debug\Presentation.pdb
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\bin\Debug\Business Objects.dll
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\bin\Debug\Data.dll
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\bin\Debug\Business Objects.pdb
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\bin\Debug\Data.pdb
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\obj\Debug\Finance.g.cs
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\obj\Debug\Loyalty.g.cs
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\obj\Debug\MainWindow.g.cs
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\obj\Debug\Orders.g.cs
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\obj\Debug\StockChanges.g.cs
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\obj\Debug\App.g.cs
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\obj\Debug\Presentation_MarkupCompile.cache
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\obj\Debug\Presentation_MarkupCompile.lref
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\obj\Debug\Finance.baml
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\obj\Debug\Loyalty.baml
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\obj\Debug\MainWindow.baml
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\obj\Debug\Orders.baml
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\obj\Debug\StockChanges.baml
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\obj\Debug\Presentation.g.resources
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\Holiday Booking System\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\bin\Debug\Presentation.exe.config
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Presentation.exe
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Presentation.pdb
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\bin\Debug\Presentation.exe
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\bin\Debug\Presentation.pdb
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\bin\Debug\Business Objects.dll
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\bin\Debug\Data.dll
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\bin\Debug\Business Objects.pdb
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\bin\Debug\Data.pdb
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Presentation.csprojResolveAssemblyReference.cache
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Finance.g.cs
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Loyalty.g.cs
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\MainWindow.g.cs
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Orders.g.cs
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\StockChanges.g.cs
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\App.g.cs
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Presentation_MarkupCompile.cache
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Presentation_MarkupCompile.lref
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Finance.baml
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Loyalty.baml
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\MainWindow.baml
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Orders.baml
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\StockChanges.baml
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Presentation.g.resources
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Presentation.csproj.GenerateResource.Cache
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\NewStock.g.cs
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\NewStock.baml
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\ChangeStock.g.cs
+D:\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\ChangeStock.baml
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\bin\Debug\Presentation.exe
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\bin\Debug\Presentation.pdb
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\bin\Debug\Business Objects.dll
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\bin\Debug\Data.dll
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\bin\Debug\Business Objects.pdb
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\bin\Debug\Data.pdb
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\ChangeStock.g.cs
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Finance.g.cs
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Loyalty.g.cs
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\NewStock.g.cs
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Orders.g.cs
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\StockChanges.g.cs
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\App.g.cs
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Presentation_MarkupCompile.cache
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Presentation_MarkupCompile.lref
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\ChangeStock.baml
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Finance.baml
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Loyalty.baml
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\MainWindow.baml
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\NewStock.baml
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Orders.baml
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\StockChanges.baml
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Presentation.g.resources
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Presentation.exe
+C:\Users\Connor\Dropbox\Notes\4th year\Software Architecture\Coursework\DE-Store\Presentation\obj\Debug\Presentation.pdb
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\bin\Debug\Presentation.exe
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\bin\Debug\Presentation.pdb
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\bin\Debug\Business Objects.dll
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\bin\Debug\Data.dll
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\bin\Debug\Business Objects.pdb
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\bin\Debug\Data.pdb
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\ChangeStock.g.cs
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\Finance.g.cs
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\Loyalty.g.cs
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\NewStock.g.cs
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\Orders.g.cs
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\StockChanges.g.cs
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\App.g.cs
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\Presentation_MarkupCompile.cache
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\Presentation_MarkupCompile.lref
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\ChangeStock.baml
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\Finance.baml
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\Loyalty.baml
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\MainWindow.baml
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\NewStock.baml
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\Orders.baml
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\StockChanges.baml
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\Presentation.g.resources
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\Presentation.exe
+C:\Users\niall_000\Downloads\DE-Store-master\Presentation\obj\Debug\Presentation.pdb
+C:\Users\niall_000\source\repos\40273691\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\niall_000\source\repos\40273691\Presentation\bin\Debug\Presentation.exe
+C:\Users\niall_000\source\repos\40273691\Presentation\bin\Debug\Presentation.pdb
+C:\Users\niall_000\source\repos\40273691\Presentation\bin\Debug\Business Objects.dll
+C:\Users\niall_000\source\repos\40273691\Presentation\bin\Debug\Data.dll
+C:\Users\niall_000\source\repos\40273691\Presentation\bin\Debug\Business Objects.pdb
+C:\Users\niall_000\source\repos\40273691\Presentation\bin\Debug\Data.pdb
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\ChangeStock.g.cs
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\Finance.g.cs
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\MainWindow.g.cs
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\Orders.g.cs
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\App.g.cs
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\Presentation_MarkupCompile.cache
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\Presentation_MarkupCompile.lref
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\ChangeStock.baml
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\Finance.baml
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\MainWindow.baml
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\Orders.baml
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\Presentation.g.resources
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\Presentation.exe
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\Presentation.pdb
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\LoyaltyCodes.g.cs
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\AddStock.g.cs
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\StockMenu.g.cs
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\LoyaltyCodes.baml
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\AddStock.baml
+C:\Users\niall_000\source\repos\40273691\Presentation\obj\Debug\StockMenu.baml
