@@ -1,6 +1,9 @@
 ﻿1
 2 Fridges 1 Mcirowave 3 Ovens
+Out for delivery
 2
 2 Hobs
+Payment Pending
 3
 15 Worktops
+Waiting for finance approval

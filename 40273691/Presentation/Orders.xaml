@@ -9,10 +9,25 @@
     <Grid>
         <Button x:Name="btnBack" Content="&lt; Back" HorizontalAlignment="Left" Height="21" Margin="10,338,0,0" VerticalAlignment="Top" Width="46" Click="btnBack_Click" RenderTransformOrigin="0.558,0.175"/>
         <ListBox x:Name="listOrders" HorizontalAlignment="Left" Height="214" Margin="10,45,0,0" VerticalAlignment="Top" Width="80"/>
-        <ListBox x:Name="listInfo" HorizontalAlignment="Left" Height="214" Margin="95,45,0,0" VerticalAlignment="Top" Width="387"/>
+        <ListBox x:Name="listInfo" HorizontalAlignment="Left" Height="214" Margin="95,45,0,0" VerticalAlignment="Top" Width="265"/>
         <Button x:Name="btnRefresh" Content="Refresh Orders" HorizontalAlignment="Left" Height="46" Margin="10,264,0,0" VerticalAlignment="Top" Width="192" Click="btnRefresh_Click"/>
-        <Button x:Name="btnCancle" Content ="Cancel Order" HorizontalAlignment="Left" VerticalAlignment="Top" Width="107" RenderTransformOrigin="3.999,10.295" Margin="253,264,0,0" Height="46" Click="BtnCancle_Click"/>
-        <Button x:Name="btnComplete" Content ="Complete Order" HorizontalAlignment="Left" VerticalAlignment="Top" Width="107" Margin="365,264,0,0" Height="46" Click="BtnComplete_Click"/>
+        <Button x:Name="btnCancle" Content ="Cancel Order" HorizontalAlignment="Left" VerticalAlignment="Top" Width="107" RenderTransformOrigin="3.999,10.295" Margin="253,315,0,0" Height="46" Click="BtnCancle_Click"/>
+        <Button x:Name="btnComplete" Content ="Complete Order" HorizontalAlignment="Left" VerticalAlignment="Top" Width="107" Margin="365,315,0,0" Height="46" Click="BtnComplete_Click"/>
+        <Button x:Name="btnUp" Content="priority Up" HorizontalAlignment="Left" VerticalAlignment="Top" Width="107" Margin="253,264,0,0" Height="46" Click="BtnUp_Click"/>
+        <Button x:Name="btnDown" Content="Priority Down" HorizontalAlignment="Left" VerticalAlignment="Top" Width="107" Margin="365,264,0,0" Height="46" Click="BtnDown_Click"/>
+        <ListBox x:Name="listStatus" HorizontalAlignment="Left" Height="216" VerticalAlignment="Top" Width="111" Margin="365,45,0,0" RenderTransformOrigin="0.5,0.5">
+            <ListBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.27"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ListBox.RenderTransform>
+        </ListBox>
+        <Label Content="Order" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="210,14,0,0"/>
+        <Label Content="priority" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="28,14,0,0"/>
+        <Label Content="Status" HorizontalAlignment="Left" Margin="400,14,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.515,-0.127"/>
 
     </Grid>
 </Window>

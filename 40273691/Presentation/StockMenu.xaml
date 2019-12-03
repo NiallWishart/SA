@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Presentation"
         mc:Ignorable="d"
-        Title="StockChanges" Height="254.83" Width="349.608">
+        Title="StockMenu" Height="254.83" Width="349.608">
     <Grid Height="234" VerticalAlignment="Top">
         <Button x:Name="btnChange" Content="Change Stock" HorizontalAlignment="Left" VerticalAlignment="Top" Width="127" Margin="107,120,0,0" Height="50" Click="btnQuantity_Click"/>
         <Button x:Name="btnBack" Content="&lt; Back" HorizontalAlignment="Left" Height="20" Margin="10,190,0,0" VerticalAlignment="Top" Width="43" Click="btnBack_Click"/>

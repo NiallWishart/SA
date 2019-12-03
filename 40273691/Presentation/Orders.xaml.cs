@@ -34,6 +34,7 @@ namespace Presentation
         private void btnRefresh_Click(object sender, RoutedEventArgs e)
         {
             bool orderInfo = false;
+            bool infolist = false;
             string workingDirectory = Environment.CurrentDirectory;
             string projectDirectory = Directory.GetParent(workingDirectory).Parent.FullName;
 
@@ -41,13 +42,19 @@ namespace Presentation
             var file = new System.IO.StreamReader(projectDirectory + "..\\..\\Data\\Orders.txt");
             while ((line = file.ReadLine()) != null)
             {
-                if(orderInfo == false){
+                if (orderInfo == false) {
                     listOrders.Items.Add(line);
                     orderInfo = true;
                 }
-                else
+                else if (infolist == false)
                 {
                     listInfo.Items.Add(line);
+                    infolist = true;
+                }
+                else
+                {
+                    listStatus.Items.Add(line);
+                    infolist = false;
                     orderInfo = false;
                 }
             }
@@ -60,6 +67,42 @@ namespace Presentation
 
         private void BtnComplete_Click(object sender, RoutedEventArgs e)
         {
+
+        }
+
+        private void BtnUp_Click(object sender, RoutedEventArgs e)
+        {
+            if (listInfo.SelectedItem == null || listInfo.SelectedIndex < 0)
+                return; // No selected item - nothing to do
+
+            object selected = listInfo.SelectedItem;
+
+            int newIndex = listInfo.SelectedIndex - 1;
+
+            if (newIndex < 0 || newIndex >= listInfo.Items.Count)
+                return; // Index out of range - nothing to do
+
+            listInfo.Items.Remove(selected);
+            listInfo.Items.Insert(newIndex, selected);
+
+        }
+
+        private void BtnDown_Click(object sender, RoutedEventArgs e)
+        {
+            if (listInfo.SelectedItem == null || listInfo.SelectedIndex < 0)
+                return; // No selected item - nothing to do
+
+
+            object selected = listInfo.SelectedItem;
+
+
+            int newIndex = listInfo.SelectedIndex + 1;
+
+            if (newIndex < 0 || newIndex >= listInfo.Items.Count)
+                return; // Index out of range - nothing to do
+
+            listInfo.Items.Remove(selected);
+            listInfo.Items.Insert(newIndex, selected);
 
         }
     }

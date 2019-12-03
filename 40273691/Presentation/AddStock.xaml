@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Presentation"
         mc:Ignorable="d"
-        Title="NewStock" Height="292.428" Width="500.000">
+        Title="AddStock" Height="292.428" Width="500.000" ResizeMode="NoResize">
     <Grid Margin="0,0,0,41">
         <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="204" Margin="10,15,0,0" Stroke="Black" VerticalAlignment="Top" Width="472"/>
         <Button x:Name="btnBack" Content="&lt; Back" HorizontalAlignment="Left" Height="20" Margin="10,224,0,-24" VerticalAlignment="Top" Width="42" Click="btnBack_Click"/>
